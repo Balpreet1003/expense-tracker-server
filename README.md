@@ -34,7 +34,7 @@ A secure and scalable backend for the **AI-Powered Expense Tracker**, built with
 ## Live Demo
 
 ⚙️ **Backend API:**  
-https://expense-tracker-server-eight-umber.vercel.app/
+https://expense-tracker-wjx8.vercel.app
 
 ---
 
